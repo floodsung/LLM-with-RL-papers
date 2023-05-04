@@ -13,6 +13,8 @@ A collection of LLM with RL related papers for instruction following, reasoning,
 
 [3] Uesato J, Kushman N, Kumar R, et al. **Solving math word problems with process-and outcome-based feedback**[J]. arXiv preprint arXiv:2211.14275, 2022.[[link]](https://arxiv.org/pdf/2211.14275)
 
+[4] Deng M, Wang J, Hsieh C P, et al. **Rlprompt: Optimizing discrete text prompts with reinforcement learning**[J]. arXiv preprint arXiv:2205.12548, 2022.[[link]](https://arxiv.org/pdf/2205.12548)
+
 
 ## RLHF(RL with Human Feedback)
 
@@ -25,6 +27,8 @@ A collection of LLM with RL related papers for instruction following, reasoning,
 [4] Nakano R, Hilton J, Balaji S, et al. **Webgpt: Browser-assisted question-answering with human feedback**[J]. arXiv preprint arXiv:2112.09332, 2021.[[link]](https://arxiv.org/pdf/2112.09332)
 
 [5] Bai Y, Kadavath S, Kundu S, et al. **Constitutional AI: Harmlessness from AI Feedback**[J]. arXiv preprint arXiv:2212.08073, 2022.[[link]](https://arxiv.org/pdf/2212.08073)
+
+[6] Bai Y, Jones A, Ndousse K, et al. **Training a helpful and harmless assistant with reinforcement learning from human feedback**[J]. arXiv preprint arXiv:2204.05862, 2022.[[link]](https://arxiv.org/pdf/2204.05862)
 
 ### Prompt-based but RL related 
 
@@ -39,8 +43,11 @@ A collection of LLM with RL related papers for instruction following, reasoning,
 [5] Chen X, Lin M, Schärli N, et al. **Teaching Large Language Models to Self-Debug**[J]. arXiv preprint arXiv:2304.05128, 2023.[[link]](https://arxiv.org/pdf/2304.05128)
 
 
+### Code
 
+[1] DeepSpeed Chat RLHF [[link]](https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat)
 
+[2] TRLX [[link]](https://github.com/CarperAI/trlx)
 
 
 
