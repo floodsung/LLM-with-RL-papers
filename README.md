@@ -17,6 +17,8 @@ A collection of LLM with RL related papers for instruction following, reasoning,
 
 [5] Carta T, Romac C, Wolf T, et al. **Grounding large language models in interactive environments with online reinforcement learning**[J]. arXiv preprint arXiv:2302.02662, 2023.[[link]](https://arxiv.org/pdf/2302.02662)
 
+[6] Mezghani L, Bojanowski P, Alahari K, et al. **Think Before You Act: Unified Policy for Interleaving Language Reasoning with Actions**[J]. arXiv preprint arXiv:2304.11063, 2023.[[link]](https://arxiv.org/pdf/2304.11063)
+
 
 ## RLHF(RL with Human Feedback)
 
