@@ -15,6 +15,8 @@ A collection of LLM with RL related papers for instruction following, reasoning,
 
 [4] Deng M, Wang J, Hsieh C P, et al. **Rlprompt: Optimizing discrete text prompts with reinforcement learning**[J]. arXiv preprint arXiv:2205.12548, 2022.[[link]](https://arxiv.org/pdf/2205.12548)
 
+[5] Carta T, Romac C, Wolf T, et al. **Grounding large language models in interactive environments with online reinforcement learning**[J]. arXiv preprint arXiv:2302.02662, 2023.[[link]](https://arxiv.org/pdf/2302.02662)
+
 
 ## RLHF(RL with Human Feedback)
 
