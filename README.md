@@ -26,13 +26,19 @@ A collection of LLM with RL related papers for instruction following, reasoning,
 
 [2] Ziegler D M, Stiennon N, Wu J, et al. **Fine-tuning language models from human preferences**[J]. arXiv preprint arXiv:1909.08593, 2019.[[link]](https://arxiv.org/pdf/1909.08593.pdf))
 
-[3] Ouyang L, Wu J, Jiang X, et al. **Training language models to follow instructions with human feedback**[J]. Advances in Neural Information Processing Systems, 2022, 35: 27730-27744.[[link]](https://proceedings.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf)
+[3] Stiennon N, Ouyang L, Wu J, et al. **Learning to summarize with human feedback**[J]. Advances in Neural Information Processing Systems, 2020, 33: 3008-3021.[[link]](https://arxiv.org/pdf/2009.01325.pdf)
 
-[4] Nakano R, Hilton J, Balaji S, et al. **Webgpt: Browser-assisted question-answering with human feedback**[J]. arXiv preprint arXiv:2112.09332, 2021.[[link]](https://arxiv.org/pdf/2112.09332)
+[4] Ouyang L, Wu J, Jiang X, et al. **Training language models to follow instructions with human feedback**[J]. Advances in Neural Information Processing Systems, 2022, 35: 27730-27744.[[link]](https://proceedings.neurips.cc/paper_files/paper/2022/file/b1efde53be364a73914f58805a001731-Paper-Conference.pdf)
 
-[5] Bai Y, Kadavath S, Kundu S, et al. **Constitutional AI: Harmlessness from AI Feedback**[J]. arXiv preprint arXiv:2212.08073, 2022.[[link]](https://arxiv.org/pdf/2212.08073)
+[5] Nakano R, Hilton J, Balaji S, et al. **Webgpt: Browser-assisted question-answering with human feedback**[J]. arXiv preprint arXiv:2112.09332, 2021.[[link]](https://arxiv.org/pdf/2112.09332)
 
 [6] Bai Y, Jones A, Ndousse K, et al. **Training a helpful and harmless assistant with reinforcement learning from human feedback**[J]. arXiv preprint arXiv:2204.05862, 2022.[[link]](https://arxiv.org/pdf/2204.05862)
+
+[7] Bai Y, Kadavath S, Kundu S, et al. **Constitutional AI: Harmlessness from AI Feedback**[J]. arXiv preprint arXiv:2212.08073, 2022.[[link]](https://arxiv.org/pdf/2212.08073)
+
+[8] Ganguli D, Askell A, Schiefer N, et al. **The capacity for moral self-correction in large language models**[J]. arXiv preprint arXiv:2302.07459, 2023.[[link]](https://arxiv.org/pdf/2302.07459)
+
+[9] Zhu B, Jiao J, Jordan M I. **Principled Reinforcement Learning with Human Feedback from Pairwise or $ K $-wise Comparisons**[J]. arXiv preprint arXiv:2301.11270, 2023.[[link]](https://arxiv.org/pdf/2301.11270)
 
 ### Prompt-based but RL related 
 
