@@ -61,6 +61,10 @@ A collection of LLM with RL related papers for instruction following, reasoning,
 
 [2] TRLX [[link]](https://github.com/CarperAI/trlx)
 
+[3] PKU-Beaver [[link]](https://pku-beaver.github.io/)
+
+[4] ColossalAI [[link]](https://github.com/hpcaitech/ColossalAI)
+
 
 
 
