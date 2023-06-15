@@ -19,6 +19,8 @@ A collection of LLM with RL related papers for instruction following, reasoning,
 
 [6] Mezghani L, Bojanowski P, Alahari K, et al. **Think Before You Act: Unified Policy for Interleaving Language Reasoning with Actions**[J]. arXiv preprint arXiv:2304.11063, 2023.[[link]](https://arxiv.org/pdf/2304.11063)
 
+[7] Dubois Y, Li X, Taori R, et al. AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback[J]. arXiv preprint arXiv:2305.14387, 2023. [[link]](https://arxiv.org/pdf/2305.14387)
+
 
 ## RLHF(RL with Human Feedback)
 
