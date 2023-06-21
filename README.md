@@ -19,7 +19,7 @@ A collection of LLM with RL related papers for instruction following, reasoning,
 
 [6] Mezghani L, Bojanowski P, Alahari K, et al. **Think Before You Act: Unified Policy for Interleaving Language Reasoning with Actions**[J]. arXiv preprint arXiv:2304.11063, 2023.[[link]](https://arxiv.org/pdf/2304.11063)
 
-[7] Dubois Y, Li X, Taori R, et al. AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback[J]. arXiv preprint arXiv:2305.14387, 2023. [[link]](https://arxiv.org/pdf/2305.14387)
+[7] Dubois Y, Li X, Taori R, et al. **AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback**[J]. arXiv preprint arXiv:2305.14387, 2023. [[link]](https://arxiv.org/pdf/2305.14387)
 
 
 ## RLHF(RL with Human Feedback)
@@ -54,6 +54,8 @@ A collection of LLM with RL related papers for instruction following, reasoning,
 
 [5] Chen X, Lin M, Schärli N, et al. **Teaching Large Language Models to Self-Debug**[J]. arXiv preprint arXiv:2304.05128, 2023.[[link]](https://arxiv.org/pdf/2304.05128)
 
+[6] Liu R, Yang R, Jia C, et al. **Training Socially Aligned Language Models in Simulated Human Society**[J]. arXiv preprint arXiv:2305.16960, 2023.
+[[link]](https://arxiv.org/pdf/2305.16960.pdf)
 
 ### Code
 
