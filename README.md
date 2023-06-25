@@ -21,6 +21,9 @@ A collection of LLM with RL related papers for instruction following, reasoning,
 
 [7] Dubois Y, Li X, Taori R, et al. **AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback**[J]. arXiv preprint arXiv:2305.14387, 2023. [[link]](https://arxiv.org/pdf/2305.14387)
 
+[8] Laskin M, Wang L, Oh J, et al. **In-context reinforcement learning with algorithm distillation**[J]. arXiv preprint arXiv:2210.14215, 2022.[[link]](https://arxiv.org/pdf/2210.14215)
+
+
 
 ## RLHF(RL with Human Feedback)
 
