@@ -60,6 +60,9 @@ A collection of LLM with RL related papers for instruction following, reasoning,
 [6] Liu R, Yang R, Jia C, et al. **Training Socially Aligned Language Models in Simulated Human Society**[J]. arXiv preprint arXiv:2305.16960, 2023.
 [[link]](https://arxiv.org/pdf/2305.16960.pdf)
 
+[7] Chen L, Wang L, Dong H, et al. **Introspective Tips: Large Language Model for In-Context Decision Making**[J]. arXiv preprint arXiv:2305.11598, 2023.[[link]](https://arxiv.org/pdf/2305.11598)
+
+
 ### Code
 
 [1] DeepSpeed Chat RLHF [[link]](https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat)
